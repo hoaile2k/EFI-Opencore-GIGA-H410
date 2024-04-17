@@ -10,3 +10,7 @@
 | GPU | Radeon RX 580 ARMOR 8G OC |
 | Ethernet | Intel mausi |
 | Sound Card | Realteak with layout=11 |
+
+## Current Version
+| Opencore | 0.9.9 |
+| MacOS | Mojave and newer |
