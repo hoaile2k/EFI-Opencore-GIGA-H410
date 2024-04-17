@@ -1,5 +1,4 @@
 ## Devices
-
 | Hardware | Details |
 |:---|:---|
 | Mainboard | Gigabyte H410m H V3 |
@@ -12,7 +11,6 @@
 | Sound Card | Realteak with layout=11 |
 
 ## Bios Setup
-
 | Enable | Disable |
 |:---|:---|
 |SATA Mode: AHCI|Serial/COM Port|
@@ -23,7 +21,6 @@
 |-|Above 4G Decoding|
 
 ## Descriptions
-
 | Working | Not working |
 |:---|:---|
 |CPU|Wifi are not install|
