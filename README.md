@@ -11,6 +11,28 @@
 | Ethernet | Intel mausi |
 | Sound Card | Realteak with layout=11 |
 
+## Bios Setup
+
+| Enable | Disable |
+|:---|:---|
+|SATA Mode: AHCI|Serial/COM Port|
+|Hyper-Threading|Fast Boot|
+|-|Secure Boot|
+|-|VT-d|
+|-|CSM|
+|-|Above 4G Decoding|
+
+## Descriptions
+
+| Working | Not working |
+|:---|:---|
+|CPU|Wifi are not install|
+|GPU|Bluetooth are not install|
+|VGA|Airdrop are not install|
+|Power management|-|
+|Facetime|-|
+|iMessage|-|
+
 ## Current Version
 | Opencore | MacOS support |
 |:---|:---|
