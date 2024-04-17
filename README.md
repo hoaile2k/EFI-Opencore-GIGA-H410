@@ -12,5 +12,6 @@
 | Sound Card | Realteak with layout=11 |
 
 ## Current Version
-| Opencore | 0.9.9 |
-| MacOS | Mojave and newer |
+| Opencore | MacOS support |
+|:---|:---|
+| 0.9.9 | Mojave and newer |
