@@ -32,6 +32,7 @@
 |Power management|-|
 |Facetime|-|
 |iMessage|-|
+|Sleep/Wake|-|
 
 ## Current Version
 | Opencore | MacOS support |
