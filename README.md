@@ -1,6 +1,6 @@
 ## Devices
 
-| Specifications | Details |
+| Hardware | Details |
 |:---|:---|
 | Mainboard | Gigabyte H410m H V3 |
 | CPU | Intel Core i3-10105F |
